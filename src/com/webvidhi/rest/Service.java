@@ -1,4 +1,4 @@
-package com.sameer.rest;
+package com.webvidhi.rest;
 
 import java.util.ArrayList;
 import java.util.List;

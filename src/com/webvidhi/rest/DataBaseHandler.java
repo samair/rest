@@ -1,4 +1,4 @@
-package com.sameer.rest;
+package com.webvidhi.rest;
 
 public class DataBaseHandler {
 
